@@ -15,7 +15,6 @@ The project was created from scratch without using game engines or external fram
 * 🌍 Multi-language support.
 * 💾 Automatic saving of game settings using Local Storage.
 * ✨ Visual click effects and smooth UI animations.
-* 📱 Responsive interface that adapts to different screen sizes.
 
 ## Technologies
 
